@@ -14,6 +14,8 @@ Mit diesen kleinen Aufgabe soll der Umgang mit dem Java Collection Framework ge�
 3. Erzeugt eine ```HashMap``` und füllt sie mit Strings als key und mit euren Objekten als value
 4. Iterriert über eure ```HashMap``` und lasst euch dabei jeweils key und value ausgeben
 
+![image](https://i.stack.imgur.com/aSDsG.png)
+
 
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
