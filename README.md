@@ -5,7 +5,14 @@
 
 ### 📝 Aufgabe:
 
+Mit diesen kleinen Aufgabe soll der Umgang mit dem Java Collection Framework geübt werden
 
+- Erstellt eine beliebige Klasse mit Attributen, Getter/Setter und einem Konstruktor
+  - Erzeugt ein paar Objekte davon und fügt diese jeweils vorher in eure Collections ein.
+1. Fügt zwei ```ArrayList``` mit jeweils zwei Objekten zusammen
+2. Convertiert die ```ArrayList``` in ein ```HashSet```
+3. Erzeugt eine ```HashMap``` und füllt sie mit Strings als key und mit euren Objekten als value
+4. Iterriert über eure ```HashMap``` und lasst euch dabei jeweils key und value ausgeben
 
 
 ### ℹ️ Resourcen:
